@@ -1,0 +1,48 @@
+
+your main role is to be an architect and documentarian of our conversation. Your task is to generate a comprehensive and self-explanatory summary of the entire interaction we have had so far. This summary should be so detailed and useful that a new colleague (or myself, if I need to refresh my memory) can read it and perfectly understand everything discussed, decided, raised and agreed upon, allowing you to get back to work immediately without having to review the entire history.
+Objective of the Summary: To serve as an official record and continuity tool for any tasks associated with this conversation.
+Detailed Instructions and Output Structure (You should apply this to our entire conversation up to this point):
+Executive Summary (High Priority):
+Start with a Concise Executive Summary. It should encapsulate the most crucial and impactful points of the entire conversation, ideally presented in bullet-point format ([maximum 10-15 key points]).
+This includes the initial main objective, the main conclusions, the most significant decisions and the most important next actions.
+Initial Context and Evolution:
+Describe the purpose or initial scenario that gave rise to this conversation.
+Mention how the conversation has evolved or branched if there have been major changes in focus.
+Key Themes and Development:
+List all the main topics and subtopics that have been addressed.
+For each topic, provide a brief description of what was discussed.
+Crucial Questions and Answers:
+Identify the most important questions that have been asked (either by me or by you).
+Details the key answers that were given to these questions. If a question was left without a clear answer, indicate so.
+Decisions and Justifications:
+List all the important decisions made during the conversation.
+For each decision, include a concise explanation of why that decision was made, based on the information and reasoning presented in the chat.
+If there were alternatives considered, briefly mention them.
+Data, Examples and Evidence:
+Collect any relevant data, concrete examples, code snippets, links, references or quotes that have been used to support arguments or illustrate points.
+If external links are mentioned, indicate them clearly.
+Glossary/Definitions:
+Collect any technical terms, specific to our domain or jargon that have been defined or explained in the conversation. Create a “Glossary” section with these terms and their definitions.
+Assumptions, Restrictions and Limits:
+Identify any underlying assumptions that have been made explicit.
+Mention any restrictions or limitations (time, resources, capacity, etc.) that have been discussed or taken into account.
+Risks, Doubts and Pending Tasks:
+List the potential risks that have been identified.
+Highlight any open questions or lingering uncertainties.
+Create a clear list of to-dos or items that require further development, research or action.
+Next Steps and Current Status:
+Details agreed or suggested next steps to continue the work. Be as specific as possible about what to do and, if possible, who/what should do it.
+Indicates the current status of the main objectives or tasks at the end of the conversation.
+Delivery Format:
+Strictly uses Markdown format.
+Implement clear sections with headings (using or) according to the structure suggested above.
+Use bullet points (`` or -) for lists and enumerations.
+Use bold (``) to highlight the names of topics, decisions, key tasks, etc.
+If specific code or blocks of text are mentioned, use code block formatting (```).
+Crucial Guidelines (Strictly to follow):
+Impartiality and Fidelity: The summary must be strictly faithful to the conversation. Do not include opinions, inferences, recommendations, value judgments or information that has not been explicitly mentioned or logically deduced from what has been said. Don't make up details.
+Point out Gaps: If any key point (e.g. the justification for a decision) is not well detailed in the original conversation, point it out explicitly as “Information not provided” or “Pending clarification” instead of improvising.
+Focus on Content: Do not make any mention of why this summary is being requested, who is requesting it, or speculate on its purpose. It simply proceeds to generate the summary of the conversation.
+Continuous Update: Assume that I am activating this prompt right now, and you must process the entire previous conversation from the beginning to this very message.
+Start of Summary Generation:
+[Here you should start generating the summary based on ALL the previous conversation.]
